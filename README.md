@@ -1,1 +1,1 @@
-# Handwritten-Text-Detection
+# Handwritten Text Detection
